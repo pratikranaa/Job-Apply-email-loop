@@ -10,8 +10,11 @@ This is a Python script for sending job applications via email. It reads email a
 ## Setup
 
 1. Clone the repository or download the script file.
+```
+git clone https://github.com/pratikranaa/Job-apply-email-loop.git
+```
 
-2. Create a file named credentials.txt in the same directory as the script. Enter your email address and password on separate lines, like this:
+3. Create a file named credentials.txt in the same directory as the script. Enter your email address and password on separate lines, like this:
   ```
   your_email@example.com
   your_password
