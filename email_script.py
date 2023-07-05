@@ -46,7 +46,7 @@ body = "Sir/Mam,\nGood Afternoon\n\nI hope this email finds you well. I am writi
 email_list_file = "email_list.txt"
 
 # File attachment
-attachment_path = "Pratik_s_CV.pdf"  # Replace with the path to your attachment file
+attachment_path = "resume.pdf"  # Replace with the path to your attachment file
 
 #Read credentials
 with open("credentials.txt", "r") as credentials_file:
